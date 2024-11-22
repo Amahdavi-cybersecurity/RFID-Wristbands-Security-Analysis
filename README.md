@@ -4,7 +4,7 @@
 This repository contains a detailed analysis of the security and privacy implications of using RFID wristbands in children's resort activities. The project explores the benefits, potential risks, and best practices for secure implementation.
 
 ## Repository Contents
- A comprehensive report analyzing RFID technology in the context of children's resort activities, focusing on security and privacy.
+- **[CISA Research 2.docx](https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis/blob/main/CISA%20resarech%202.docx)**: A comprehensive report analyzing RFID technology in the context of children's resort activities, focusing on security and privacy.
 
 ## Key Highlights
 ### Technological Benefits
@@ -33,11 +33,6 @@ This repository contains a detailed analysis of the security and privacy implica
 ### Technologies
 - Use robust encryption for data storage and transmission.
 - Implement advanced authentication protocols.
-
-## How to Use This Repository
-1. Download the **[CISA Research 2.docx](CISA%20Research%202.docx)** file to access the full report.
-2. Refer to the recommendations section for actionable strategies.
-3. Use this as a reference for similar RFID implementation projects.
 
 ## License
 This repository is licensed under the **MIT License**.
